@@ -7,5 +7,8 @@ Dette innebærer da at André Stokkeland har snakket i filmen. Og vi har desverr
 for kommentering eller diskusjon under kodingen. Kommentarer Fra Astrid Indrelid er markert med AI. i starten 
 og André Stokkeland sine med AS. 
 
+Link til youtube
+https://youtu.be/P2Owe6ZkGWI
+
 
 
