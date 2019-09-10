@@ -5,6 +5,10 @@ services:
 cache:
   directories:
   - "$HOME/.cache"
+  
+  install: true
+script:
+- mvn install
 
 deploy:
   provider: script
